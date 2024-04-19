@@ -13,3 +13,8 @@ Synthea is an open-source software application used to generate synthetic patien
 
 <h3> &nbsp;HAPI-FHIR Configuration </h3>
 HAPI-FHIR is an open-source implementation of the Fast Healthcare Interoperability Resources (FHIR) standard.  HAPI-FHIR was installed and configured within the UPHIE VM. 
+
+<h3> &nbsp;Technical Skills Demonstrated </h3>
+-installation of packages and set-up of VM
+-integrate and configure multiple web servers in each VM
+-demonstrate effective troubleshooting commands
