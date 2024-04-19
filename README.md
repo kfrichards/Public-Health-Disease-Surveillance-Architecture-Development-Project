@@ -21,3 +21,9 @@ HAPI-FHIR is an open-source implementation of the Fast Healthcare Interoperabili
 
 -demonstrate effective troubleshooting commands
 
+-IP adress configuration to ensure connectivity
+
+-healthcare data generation 
+
+-healthcare interoperability and security standards
+
