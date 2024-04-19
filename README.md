@@ -18,6 +18,5 @@ HAPI-FHIR is an open-source implementation of the Fast Healthcare Interoperabili
 -installation of packages and set-up of VM
 
 -integrate and configure multiple web servers in each VM
-
 -demonstrate effective troubleshooting commands
 
